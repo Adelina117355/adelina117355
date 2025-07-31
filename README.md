@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Аделина 👩‍💻</h1>
 
-<img align="right"src=https://avatars.mds.yandex.net/i?id=1c830f51d5579bda05e4556e9a97d2f8_l-5530893-images-thumbs&n=13" alt="фото " width="200"/>
+<img src=https://avatars.mds.yandex.net/i?id=1c830f51d5579bda05e4556e9a97d2f8_l-5530893-images-thumbs&n=13" alt="фото " width="200"/>
 
 ## ✨ Немного обо мне:
 - 🌟 Учусь кодить и делать крутые проекты
